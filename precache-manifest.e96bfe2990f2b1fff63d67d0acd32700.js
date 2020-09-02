@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f6782ac7efbeb49ceeac5af4cf8a846",
+    "revision": "2add0282f8b970297c12cf371783f355",
     "url": "/Reactfolio/index.html"
   },
   {
-    "revision": "c8fd408e5093b4f95d20",
+    "revision": "265ce6d032e99b5f149e",
     "url": "/Reactfolio/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "4ffc0639d7540b768fe5",
-    "url": "/Reactfolio/static/css/main.3b6b1036.chunk.css"
+    "revision": "917a42e3411a9d03f62f",
+    "url": "/Reactfolio/static/css/main.89cd1e09.chunk.css"
   },
   {
-    "revision": "c8fd408e5093b4f95d20",
-    "url": "/Reactfolio/static/js/2.b18a3795.chunk.js"
+    "revision": "265ce6d032e99b5f149e",
+    "url": "/Reactfolio/static/js/2.68b5d3b8.chunk.js"
   },
   {
     "revision": "2069192f75c6f3fb6247231eea52f248",
-    "url": "/Reactfolio/static/js/2.b18a3795.chunk.js.LICENSE.txt"
+    "url": "/Reactfolio/static/js/2.68b5d3b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ffc0639d7540b768fe5",
-    "url": "/Reactfolio/static/js/main.8df740c4.chunk.js"
+    "revision": "917a42e3411a9d03f62f",
+    "url": "/Reactfolio/static/js/main.93bffc64.chunk.js"
   },
   {
     "revision": "d279430cd433889f325a",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec2c8da78e70d3093f76e3c314157d78",
     "url": "/Reactfolio/static/media/DiceGame.ec2c8da7.png"
+  },
+  {
+    "revision": "9bc9179b9853f5af128e8cc7e5fcd3f5",
+    "url": "/Reactfolio/static/media/NewsAI.9bc9179b.png"
   },
   {
     "revision": "21c864560463e7954848fe8394ac4ad5",
