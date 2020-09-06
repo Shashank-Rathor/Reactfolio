@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2add0282f8b970297c12cf371783f355",
+    "revision": "3bcdde8c3633d5c8f20e4ff49d9bebf2",
     "url": "/Reactfolio/index.html"
   },
   {
-    "revision": "265ce6d032e99b5f149e",
+    "revision": "680c82686f65bb39eeaf",
     "url": "/Reactfolio/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "917a42e3411a9d03f62f",
+    "revision": "8042a9d7b2fabf211017",
     "url": "/Reactfolio/static/css/main.89cd1e09.chunk.css"
   },
   {
-    "revision": "265ce6d032e99b5f149e",
-    "url": "/Reactfolio/static/js/2.68b5d3b8.chunk.js"
+    "revision": "680c82686f65bb39eeaf",
+    "url": "/Reactfolio/static/js/2.48968cc4.chunk.js"
   },
   {
     "revision": "2069192f75c6f3fb6247231eea52f248",
-    "url": "/Reactfolio/static/js/2.68b5d3b8.chunk.js.LICENSE.txt"
+    "url": "/Reactfolio/static/js/2.48968cc4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "917a42e3411a9d03f62f",
-    "url": "/Reactfolio/static/js/main.93bffc64.chunk.js"
+    "revision": "8042a9d7b2fabf211017",
+    "url": "/Reactfolio/static/js/main.199e4cd7.chunk.js"
   },
   {
     "revision": "d279430cd433889f325a",
     "url": "/Reactfolio/static/js/runtime-main.4909c548.js"
+  },
+  {
+    "revision": "395f452bc40eb036464af5a689016200",
+    "url": "/Reactfolio/static/media/ChatApp.395f452b.png"
   },
   {
     "revision": "dd48ff59d2538364aab958c6836b19b5",

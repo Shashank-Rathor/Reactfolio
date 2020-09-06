@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/Reactfolio/static/css/main.89cd1e09.chunk.css",
-    "main.js": "/Reactfolio/static/js/main.93bffc64.chunk.js",
-    "main.js.map": "/Reactfolio/static/js/main.93bffc64.chunk.js.map",
+    "main.js": "/Reactfolio/static/js/main.199e4cd7.chunk.js",
+    "main.js.map": "/Reactfolio/static/js/main.199e4cd7.chunk.js.map",
     "runtime-main.js": "/Reactfolio/static/js/runtime-main.4909c548.js",
     "runtime-main.js.map": "/Reactfolio/static/js/runtime-main.4909c548.js.map",
     "static/css/2.11829350.chunk.css": "/Reactfolio/static/css/2.11829350.chunk.css",
-    "static/js/2.68b5d3b8.chunk.js": "/Reactfolio/static/js/2.68b5d3b8.chunk.js",
-    "static/js/2.68b5d3b8.chunk.js.map": "/Reactfolio/static/js/2.68b5d3b8.chunk.js.map",
+    "static/js/2.48968cc4.chunk.js": "/Reactfolio/static/js/2.48968cc4.chunk.js",
+    "static/js/2.48968cc4.chunk.js.map": "/Reactfolio/static/js/2.48968cc4.chunk.js.map",
     "index.html": "/Reactfolio/index.html",
-    "precache-manifest.e96bfe2990f2b1fff63d67d0acd32700.js": "/Reactfolio/precache-manifest.e96bfe2990f2b1fff63d67d0acd32700.js",
+    "precache-manifest.6b0516bdddfdcbe3c70460dcf609ab9b.js": "/Reactfolio/precache-manifest.6b0516bdddfdcbe3c70460dcf609ab9b.js",
     "service-worker.js": "/Reactfolio/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/Reactfolio/static/css/2.11829350.chunk.css.map",
     "static/css/main.89cd1e09.chunk.css.map": "/Reactfolio/static/css/main.89cd1e09.chunk.css.map",
-    "static/js/2.68b5d3b8.chunk.js.LICENSE.txt": "/Reactfolio/static/js/2.68b5d3b8.chunk.js.LICENSE.txt",
+    "static/js/2.48968cc4.chunk.js.LICENSE.txt": "/Reactfolio/static/js/2.48968cc4.chunk.js.LICENSE.txt",
+    "static/media/ChatApp.png": "/Reactfolio/static/media/ChatApp.395f452b.png",
     "static/media/CoronaTracker.png": "/Reactfolio/static/media/CoronaTracker.dd48ff59.png",
     "static/media/DiceGame.png": "/Reactfolio/static/media/DiceGame.ec2c8da7.png",
     "static/media/NewsAI.png": "/Reactfolio/static/media/NewsAI.9bc9179b.png",
@@ -44,8 +45,8 @@
   "entrypoints": [
     "static/js/runtime-main.4909c548.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.68b5d3b8.chunk.js",
+    "static/js/2.48968cc4.chunk.js",
     "static/css/main.89cd1e09.chunk.css",
-    "static/js/main.93bffc64.chunk.js"
+    "static/js/main.199e4cd7.chunk.js"
   ]
 }
