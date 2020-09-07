@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b8483f903dbe84d3e427fb966e4d445",
+    "revision": "78022131c71b1e86c8c50c333c980e2f",
     "url": "/Reactfolio/index.html"
   },
   {
-    "revision": "680c82686f65bb39eeaf",
+    "revision": "930d8a8afbc6d4439a4d",
     "url": "/Reactfolio/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "a723fb5c8e8ce7e5d090",
+    "revision": "d6ec0bb2c97c8436c19e",
     "url": "/Reactfolio/static/css/main.89cd1e09.chunk.css"
   },
   {
-    "revision": "680c82686f65bb39eeaf",
-    "url": "/Reactfolio/static/js/2.48968cc4.chunk.js"
+    "revision": "930d8a8afbc6d4439a4d",
+    "url": "/Reactfolio/static/js/2.7ee8daad.chunk.js"
   },
   {
     "revision": "2069192f75c6f3fb6247231eea52f248",
-    "url": "/Reactfolio/static/js/2.48968cc4.chunk.js.LICENSE.txt"
+    "url": "/Reactfolio/static/js/2.7ee8daad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a723fb5c8e8ce7e5d090",
-    "url": "/Reactfolio/static/js/main.60081516.chunk.js"
+    "revision": "d6ec0bb2c97c8436c19e",
+    "url": "/Reactfolio/static/js/main.7532ba29.chunk.js"
   },
   {
     "revision": "d279430cd433889f325a",
@@ -76,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Reactfolio/static/media/css3.8cf8f549.png"
   },
   {
+    "revision": "10e7037547fdf2c8dbdc143131eaa192",
+    "url": "/Reactfolio/static/media/express.10e70375.png"
+  },
+  {
     "revision": "95471a07f1c7fafc6f248b3941362e86",
     "url": "/Reactfolio/static/media/git-icon.95471a07.png"
   },
@@ -108,8 +112,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Reactfolio/static/media/material-ui-1.b7bbd065.png"
   },
   {
-    "revision": "d0feacb735778f2317e35315ea23da3a",
-    "url": "/Reactfolio/static/media/mssql.d0feacb7.png"
+    "revision": "754e01e49836a295574661a188161775",
+    "url": "/Reactfolio/static/media/mssql.754e01e4.png"
+  },
+  {
+    "revision": "95e178f5b1dc1a2327595784442a866c",
+    "url": "/Reactfolio/static/media/netlify.95e178f5.png"
+  },
+  {
+    "revision": "9f1b5938e86a2b90cba87991b79e5582",
+    "url": "/Reactfolio/static/media/nodejs.9f1b5938.png"
   },
   {
     "revision": "651f48931edea3c8b979410b8d6713d5",
