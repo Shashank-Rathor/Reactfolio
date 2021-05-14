@@ -1,0 +1,29 @@
+.contactjumbotron {
+  background-image: url("../../assets/images/background/background.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.contact{
+  margin-left: 15%;
+  width: 70%;
+
+}
+
+@media(max-width: 600px){
+  .contact{
+    margin-left: 100px;
+    width: 50%;
+
+  }
+}
+
+.hrtag:before{
+  display: block;
+  content: "";
+  height: 30px;
+  margin-top: -31px;
+  border-style: solid;
+  border-color: #ffff;
+  border-width: 0 0 1px 0;
+  border-radius: 20px;
+}

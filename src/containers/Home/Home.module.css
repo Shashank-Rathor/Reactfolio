@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Permanent+Marker&display=swap');
+.home{
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+.home img{
+  position: relative;
+  width: 100%;
+  padding: 0;
+  height: 650px;
+}
+.heading{
+  font-weight: lighter;
+  font-family: 'Permanent Marker', cursive;
+  color: #ffffdd;
+  position: absolute;
+  width: 100%;
+  top: 22rem;
+  z-index: 1;
+  margin-top: -125px;
+  text-align: center;
+font-size: 60px;
+
+}
+.type{
+  color: white;
+  position: absolute;
+  width: 100%;
+  top: 22rem;
+  z-index: 1;
+  margin-top: 130px;
+  text-align: center;
+font-size: 30px;
+
+}
+.textStyle{
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  z-index: 1030;
+ top: 420px;
+ left: 580px;
+}
