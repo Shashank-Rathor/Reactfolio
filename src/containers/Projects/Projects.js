@@ -80,7 +80,7 @@ const Projects = () => {
              <UrlButton href={project.Rehamo_Shop.link} target="_blank"> SEE LIVE</UrlButton>
            </div>
          </ImageEvent>
-         <ImageEvent className="text-center" date="2021" text="Hea;thshine Store" src={project.Healthshine_Store.imgSrc}
+         <ImageEvent className="text-center" date="2021" text="Healthshine Store" src={project.Healthshine_Store.imgSrc}
            alt="Chat App" >
          <div><ProjectSet title='Healthshine_Store'/></div>
            <div>
