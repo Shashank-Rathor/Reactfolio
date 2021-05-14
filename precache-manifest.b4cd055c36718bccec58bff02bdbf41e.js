@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78022131c71b1e86c8c50c333c980e2f",
+    "revision": "18bbe31121cd5935664e17a3973ad6fa",
     "url": "/Reactfolio/index.html"
   },
   {
-    "revision": "930d8a8afbc6d4439a4d",
+    "revision": "23f9a0db00e4b3c6a5b5",
     "url": "/Reactfolio/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "d6ec0bb2c97c8436c19e",
-    "url": "/Reactfolio/static/css/main.89cd1e09.chunk.css"
+    "revision": "662b1d0f6044179bf20f",
+    "url": "/Reactfolio/static/css/main.dd1bb1b8.chunk.css"
   },
   {
-    "revision": "930d8a8afbc6d4439a4d",
-    "url": "/Reactfolio/static/js/2.7ee8daad.chunk.js"
+    "revision": "23f9a0db00e4b3c6a5b5",
+    "url": "/Reactfolio/static/js/2.9cf8c18a.chunk.js"
   },
   {
     "revision": "2069192f75c6f3fb6247231eea52f248",
-    "url": "/Reactfolio/static/js/2.7ee8daad.chunk.js.LICENSE.txt"
+    "url": "/Reactfolio/static/js/2.9cf8c18a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d6ec0bb2c97c8436c19e",
-    "url": "/Reactfolio/static/js/main.7532ba29.chunk.js"
+    "revision": "662b1d0f6044179bf20f",
+    "url": "/Reactfolio/static/js/main.af26b40c.chunk.js"
   },
   {
     "revision": "d279430cd433889f325a",
@@ -40,6 +40,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Reactfolio/static/media/DiceGame.ec2c8da7.png"
   },
   {
+    "revision": "23f1ba82fcccd3e2c904ab051c31a0c8",
+    "url": "/Reactfolio/static/media/Healthshine.23f1ba82.png"
+  },
+  {
     "revision": "9bc9179b9853f5af128e8cc7e5fcd3f5",
     "url": "/Reactfolio/static/media/NewsAI.9bc9179b.png"
   },
@@ -48,12 +52,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Reactfolio/static/media/Portfolio.21c86456.png"
   },
   {
+    "revision": "d20033dd650bf8165151c2b1e27482d6",
+    "url": "/Reactfolio/static/media/Rehamo.d20033dd.png"
+  },
+  {
     "revision": "6025f7f31e49f403a6a8d859687a41fd",
     "url": "/Reactfolio/static/media/Sketchlog.6025f7f3.png"
   },
   {
     "revision": "075bee6d5d73a23bf2096a989a5cd7a0",
     "url": "/Reactfolio/static/media/Tindog.075bee6d.png"
+  },
+  {
+    "revision": "4f49f0f92695dbea425aca118a765205",
+    "url": "/Reactfolio/static/media/Wheelchair.4f49f0f9.jpg"
+  },
+  {
+    "revision": "accafba0e22a4f33f948811221f09537",
+    "url": "/Reactfolio/static/media/WordPress.accafba0.png"
   },
   {
     "revision": "e447954c6913201b57ceb06de607b983",
@@ -78,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "10e7037547fdf2c8dbdc143131eaa192",
     "url": "/Reactfolio/static/media/express.10e70375.png"
+  },
+  {
+    "revision": "a6c1d5549f48d403d14258a1570d172c",
+    "url": "/Reactfolio/static/media/firebase.a6c1d554.png"
   },
   {
     "revision": "95471a07f1c7fafc6f248b3941362e86",
@@ -110,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b7bbd065807330f5912b44932d9db42c",
     "url": "/Reactfolio/static/media/material-ui-1.b7bbd065.png"
+  },
+  {
+    "revision": "6d533353033345ba2f7b696984038eaf",
+    "url": "/Reactfolio/static/media/mongodb.6d533353.jpg"
   },
   {
     "revision": "754e01e49836a295574661a188161775",
