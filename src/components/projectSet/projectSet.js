@@ -35,9 +35,12 @@ const ProjectSet = (props)=>{
      case ('Rehamo_Shop'):
         type={...project.Rehamo_Shop}
         break;
-        case ('Healthshine_Store'):
-           type={...project.Healthshine_Store}
-           break;
+      case ('Healthshine_Store'):
+         type={...project.Healthshine_Store}
+         break;
+      case ('Memories_App'):
+         type={...project.Memories_App}
+      break;
      default:
        type={};
    }

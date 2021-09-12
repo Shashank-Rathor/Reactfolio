@@ -7,8 +7,8 @@ import L_NEWSAI from '../assets/images/projects/NewsAI.png';
 import L_CHATAPP from '../assets/images/projects/ChatApp.png';
 import L_WHEELS from '../assets/images/projects/Wheelchair.jpg';
 import L_REHAMO from '../assets/images/projects/Rehamo.png';
-import L_HEALTHSHINE from '../assets/images/projects/Healthshine.png'
-
+import L_HEALTHSHINE from '../assets/images/projects/Healthshine.png';
+import L_MEMORIES from '../assets/images/projects/Memories.png';
 
 
 export const project = {
@@ -69,7 +69,7 @@ NewsAI:
     imgSrc: L_NEWSAI,
     skillName: ["React","Material-ui","Alan AI"],
   },
-  Wheelchair_Solutions:
+Wheelchair_Solutions:
     {
       description:"A descriptive website for all the wheelchair products in the shop.",
       link: "https://wheelchair.solutions/",
@@ -77,20 +77,28 @@ NewsAI:
       imgSrc: L_WHEELS,
       skillName: ["React","Material-ui","Firebase"],
     },
-    Rehamo_Shop:
+Rehamo_Shop:
       {
-        description:"A e-commerce website with healthcare products.",
+        description:"A e-commerce website for healthcare and mobility products.",
         link: "https://rehamo.shop/",
         imgAltText: "Rehamo Shop",
         imgSrc: L_REHAMO,
         skillName: ["React","Wordpress","Bluehost"],
       },
-      Healthshine_Store:
+Healthshine_Store:
         {
           description:"A catalog website with healthcare products.",
           link: "https://healthshinestore.com/",
           imgAltText: "Healthshine Store",
           imgSrc: L_HEALTHSHINE,
           skillName: ["React","Wordpress","Bluehost"],
+        },
+Memories_App:
+        {
+          description:"A fullstack CRUD app to store one's memories",
+          link: "https://memories-reactproject.netlify.app/",
+          imgAltText: "Memories App",
+          imgSrc: L_MEMORIES,
+          skillName: ["React","Node","Express","Mongodb"],
         }
 };

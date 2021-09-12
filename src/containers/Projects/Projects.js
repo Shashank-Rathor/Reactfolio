@@ -74,17 +74,24 @@ const Projects = () => {
            </div>
          </ImageEvent>
          <ImageEvent className="text-center" date="2020" text="Rehamo.shop" src={project.Rehamo_Shop.imgSrc}
-           alt="Chat App" >
+           alt="Rehamo shop" >
          <div><ProjectSet title='Rehamo_Shop'/></div>
            <div>
              <UrlButton href={project.Rehamo_Shop.link} target="_blank"> SEE LIVE</UrlButton>
            </div>
          </ImageEvent>
-         <ImageEvent className="text-center" date="2021" text="Hea;thshine Store" src={project.Healthshine_Store.imgSrc}
-           alt="Chat App" >
+         <ImageEvent className="text-center" date="2021" text="Healthshine Store" src={project.Healthshine_Store.imgSrc}
+           alt="Healthshine store" >
          <div><ProjectSet title='Healthshine_Store'/></div>
            <div>
              <UrlButton href={project.Healthshine_Store.link} target="_blank"> SEE LIVE</UrlButton>
+           </div>
+         </ImageEvent>
+         <ImageEvent className="text-center" date="2021" text="Memories App" src={project.Memories_App.imgSrc}
+           alt="Memories App" >
+         <div><ProjectSet title='Memories_App'/></div>
+           <div>
+             <UrlButton href={project.Memories_App.link} target="_blank"> SEE LIVE</UrlButton>
            </div>
          </ImageEvent>
        </Events>
