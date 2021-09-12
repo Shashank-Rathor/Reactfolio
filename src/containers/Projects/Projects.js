@@ -81,7 +81,11 @@ const Projects = () => {
            </div>
          </ImageEvent>
          <ImageEvent className="text-center" date="2021" text="Healthshine Store" src={project.Healthshine_Store.imgSrc}
+<<<<<<< HEAD
            alt="Healthshine store" >
+=======
+           alt="Chat App" >
+>>>>>>> 34b0c0b69a58521cc908508b1c27c8721652b8fb
          <div><ProjectSet title='Healthshine_Store'/></div>
            <div>
              <UrlButton href={project.Healthshine_Store.link} target="_blank"> SEE LIVE</UrlButton>
