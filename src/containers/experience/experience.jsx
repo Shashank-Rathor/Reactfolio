@@ -27,7 +27,7 @@ const Experience = () => {
                     <br />
                     <strong>Description:</strong> <strong>Developed & enhanced multiple websites</strong> with full customizability option across web application. Developed e-commerce website along with an catalogue website with CRUD operation.
                     <br />
-                    <strong>Technology:</strong> React JS, CSS, Wordpress, Bluehost and Firebase
+                    <strong>Technology:</strong> React JS, CSS, Node JS, Express, Mongodb, Wordpress, Bluehost and Firebase
                     <br />
                     <strong>Duration:</strong> November 2020 - Present
                   </Card.Text>
